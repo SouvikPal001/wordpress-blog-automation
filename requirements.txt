@@ -1,0 +1,3 @@
+cohere
+requests
+python-dotenv
